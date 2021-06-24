@@ -1,14 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "ImZdT3FQj/kw2FiVC5zxjcjqxP9899UbsBDnLw+YrO5RbmqBR1Lak9y7CsGg3Ap2mEjBXUtFJFTbiLeGGsBTNQ==",
+  "dgSpecHash": "YeXsswjSpObGdxJs+feX00mVIWLpLf/O00JWudhOV+OhXBeYcsbnNmCzo4AHs9RKMV2mPh8vn24EQBuIaYjeRw==",
   "success": true,
   "projectFilePath": "/Users/benjaminsherman/Desktop/Documents/PersonalProjects/Courses/AngularAndC#/DatingApp/API/API.csproj",
   "expectedPackageFiles": [
+    "/Users/benjaminsherman/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/Users/benjaminsherman/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/benjaminsherman/.nuget/packages/microsoft.data.sqlite.core/5.0.7/microsoft.data.sqlite.core.5.0.7.nupkg.sha512",
     "/Users/benjaminsherman/.nuget/packages/microsoft.dotnet.platformabstractions/3.1.6/microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
     "/Users/benjaminsherman/.nuget/packages/microsoft.entityframeworkcore/5.0.7/microsoft.entityframeworkcore.5.0.7.nupkg.sha512",
     "/Users/benjaminsherman/.nuget/packages/microsoft.entityframeworkcore.abstractions/5.0.7/microsoft.entityframeworkcore.abstractions.5.0.7.nupkg.sha512",
     "/Users/benjaminsherman/.nuget/packages/microsoft.entityframeworkcore.analyzers/5.0.7/microsoft.entityframeworkcore.analyzers.5.0.7.nupkg.sha512",
+    "/Users/benjaminsherman/.nuget/packages/microsoft.entityframeworkcore.design/5.0.7/microsoft.entityframeworkcore.design.5.0.7.nupkg.sha512",
     "/Users/benjaminsherman/.nuget/packages/microsoft.entityframeworkcore.relational/5.0.7/microsoft.entityframeworkcore.relational.5.0.7.nupkg.sha512",
     "/Users/benjaminsherman/.nuget/packages/microsoft.entityframeworkcore.sqlite/5.0.7/microsoft.entityframeworkcore.sqlite.5.0.7.nupkg.sha512",
     "/Users/benjaminsherman/.nuget/packages/microsoft.entityframeworkcore.sqlite.core/5.0.7/microsoft.entityframeworkcore.sqlite.core.5.0.7.nupkg.sha512",
